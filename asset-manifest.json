@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-skeleton-screen/static/css/main.1016b190.chunk.css",
+    "main.js": "/react-skeleton-screen/static/js/main.54dc766d.chunk.js",
+    "main.js.map": "/react-skeleton-screen/static/js/main.54dc766d.chunk.js.map",
+    "runtime-main.js": "/react-skeleton-screen/static/js/runtime-main.3a983990.js",
+    "runtime-main.js.map": "/react-skeleton-screen/static/js/runtime-main.3a983990.js.map",
+    "static/js/2.da87261a.chunk.js": "/react-skeleton-screen/static/js/2.da87261a.chunk.js",
+    "static/js/2.da87261a.chunk.js.map": "/react-skeleton-screen/static/js/2.da87261a.chunk.js.map",
+    "index.html": "/react-skeleton-screen/index.html",
+    "precache-manifest.091a56487480a30ac19a002df9cabcce.js": "/react-skeleton-screen/precache-manifest.091a56487480a30ac19a002df9cabcce.js",
+    "service-worker.js": "/react-skeleton-screen/service-worker.js",
+    "static/css/main.1016b190.chunk.css.map": "/react-skeleton-screen/static/css/main.1016b190.chunk.css.map",
+    "static/js/2.da87261a.chunk.js.LICENSE.txt": "/react-skeleton-screen/static/js/2.da87261a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a983990.js",
+    "static/js/2.da87261a.chunk.js",
+    "static/css/main.1016b190.chunk.css",
+    "static/js/main.54dc766d.chunk.js"
+  ]
+}
